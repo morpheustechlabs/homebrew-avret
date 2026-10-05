@@ -1,0 +1,31 @@
+AVRET HOMEBREW TAP SETUP
+
+Create this public GitHub repository:
+
+    morpheustechlabs/homebrew-avret
+
+Then place this folder wherever you want locally and run:
+
+    cd homebrew-avret
+    git init -b main
+    git remote add origin git@morpheustechlabs-GitHub:morpheustechlabs/homebrew-avret.git
+    git add .
+    git commit -m "Initial AVRET Homebrew cask"
+    git push -u origin main
+
+TEST:
+
+    brew tap morpheustechlabs/avret
+    brew install --cask avret
+
+OR DIRECT:
+
+    brew install --cask morpheustechlabs/avret/avret
+
+For future releases:
+
+    ./scripts/update_cask.py VERSION SHA256
+
+Example:
+
+    ./scripts/update_cask.py 1.1.6 711660764310b8c3bc530fbe7ac556005ca5d14cd11e48ee56fa58745bbb95fc
