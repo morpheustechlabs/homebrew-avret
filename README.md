@@ -33,14 +33,21 @@ brew uninstall --cask avret
 ## Current Release
 
 - AVRET 1.1.6
+- Build 26081203
 - macOS 13.5+
 - Universal — Apple silicon and Intel
 - Apple Developer ID signed and notarized
 
-The cask downloads the current release from:
+The cask downloads the release asset:
 
 ```text
-https://github.com/morpheustechlabs/AVRET/releases/download/v1.1.6/AVRET-latest.dmg
+https://github.com/morpheustechlabs/AVRET/releases/download/v1.1.6/AVRET-1.1.6-b26081203.dmg
+```
+
+SHA-256:
+
+```text
+711660764310b8c3bc530fbe7ac556005ca5d14cd11e48ee56fa58745bbb95fc
 ```
 
 ## Author / Lead Design Engineer
