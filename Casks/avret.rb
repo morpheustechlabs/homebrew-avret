@@ -1,8 +1,8 @@
 cask "avret" do
-  version "1.1.7,2610051921"
-  sha256 "e39791baa85292d2bc9f8dd609419cf581a15647ad7ce38f74404a6a01ce2062"
+  version "1.1.8,2610061221"
+  sha256 "5eaccd63d49636bf30995ef0a656e75aa570434e86dac81a41e2192cfad1cd1c"
 
-  url "https://github.com/morpheustechlabs/AVRET/releases/download/v1.1.7/AVRET-1.1.7-b2610051921.dmg"
+  url "https://github.com/morpheustechlabs/AVRET/releases/download/v1.1.8/AVRET-1.1.8-b2610061221.dmg"
   name "AVRET"
   desc "Engineering workbench for Microchip AVR devices"
   homepage "https://github.com/morpheustechlabs/AVRET"
