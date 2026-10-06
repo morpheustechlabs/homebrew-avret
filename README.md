@@ -1,54 +1,50 @@
 # Homebrew AVRET Tap
 
-Homebrew Cask distribution for **AVRET® — Advanced Research, Editing and Testing**.
+Homebrew Cask distribution for AVRET® — Advanced Research, Editing and Testing.
 
 ## Install
 
 Direct installation:
 
-```bash
+```sh
 brew install --cask morpheustechlabs/avret/avret
 ```
 
 Or tap first:
 
-```bash
+```sh
 brew tap morpheustechlabs/avret
 brew install --cask avret
 ```
 
 ## Upgrade
 
-```bash
+```sh
 brew update
 brew upgrade --cask avret
 ```
 
 ## Uninstall
 
-```bash
+```sh
 brew uninstall --cask avret
 ```
 
 ## Current Release
 
-- AVRET 1.1.6
-- Build 26081203
+- AVRET 1.1.7
+- Build 2610051921
 - macOS 13.5+
 - Universal — Apple silicon and Intel
 - Apple Developer ID signed and notarized
 
-The cask downloads the release asset:
+The cask downloads the verified release from:
 
-```text
-https://github.com/morpheustechlabs/AVRET/releases/download/v1.1.6/AVRET-1.1.6-b26081203.dmg
-```
+`https://avret.morpheusinnovation.com/downloads/AVRET-1.1.7-b2610051921.dmg?avret_release=8997df82f7880c82`
 
 SHA-256:
 
-```text
-711660764310b8c3bc530fbe7ac556005ca5d14cd11e48ee56fa58745bbb95fc
-```
+`8997df82f7880c825b69e67aaa0ef7920a67e08411d62e079a9a551dfe4fb487`
 
 ## Author / Lead Design Engineer
 
