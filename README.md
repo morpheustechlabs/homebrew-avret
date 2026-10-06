@@ -40,7 +40,7 @@ brew uninstall --cask avret
 
 The cask downloads the verified release from:
 
-`https://avret.morpheusinnovation.com/downloads/AVRET-1.1.7-b2610051921.dmg`
+`https://github.com/morpheustechlabs/AVRET/releases/download/v1.1.7/AVRET-1.1.7-b2610051921.dmg`
 
 SHA-256:
 
