@@ -1,8 +1,8 @@
 cask "avret" do
-  version "1.1.6"
-  sha256 "711660764310b8c3bc530fbe7ac556005ca5d14cd11e48ee56fa58745bbb95fc"
+  version "1.1.7,2610051921"
+  sha256 "3633db3921e20e3c9debc09d22833ab520c8295a23f218ce8052c0be322d479d"
 
-  url "https://raw.githubusercontent.com/morpheustechlabs/AVRET/main/release/AVRET-latest.dmg"
+  url "https://avret.morpheusinnovation.com/downloads/AVRET-1.1.7-b2610051921.dmg?avret_release=3633db3921e20e3c"
 
   name "AVRET"
   desc "Native macOS engineering workbench for Microchip AVR devices"
